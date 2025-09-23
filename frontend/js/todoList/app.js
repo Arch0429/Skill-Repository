@@ -30,7 +30,7 @@ function addList() {
     }
     
     var newItem = createItem(strItemValue, false)
-    todos = [...todos, {text: strValue, done: false}];
+    todos = [...todos, {text: strItemValue, done: false}];
 
     todoList.appendChild(newItem);
 
