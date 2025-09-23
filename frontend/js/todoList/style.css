@@ -1,0 +1,17 @@
+.box-wrapper {
+    .box-body {
+        .todo-list {
+            padding: 0;
+            list-style: none;
+            .item {
+                display: flex;
+                flex-direction: row;
+                gap: 8px;
+
+                li.done {
+                    text-decoration: line-through;
+                }
+            }
+        }
+    }
+}
