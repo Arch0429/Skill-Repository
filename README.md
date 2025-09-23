@@ -1,51 +1,65 @@
 # 👋 About Me  
+<p align="center">
+<img src="./resource/myPhoto.jpg" alt="My Photo" width="250" height=""/>
+<p/>
+
 안녕하세요, **프론트엔드 개발자 유준상**입니다.  
-3년간 웹 프론트엔드 분야에서 꾸준히 경험을 쌓으며, 사용자가 편리하게 느낄 수 있는 UI/UX와 안정적인 서비스 구현에 집중해 왔습니다.  
-코드를 단순히 작성하는 것에 그치지 않고, **문제를 구조적으로 해결하고 유지보수가 용이한 코드**를 만들기 위해 노력합니다.  
+3년간 웹 프론트엔드 분야에서 꾸준히 경험을 쌓는 중이며,  
+코드를 단순히 작성하는 것에 그치지 않고, **문제를 구조적으로 해결하고 유지보수가 용이한 코드**를 만들기 위해 노력합니다.
+개발자라는 직업은 모름지기 **평생 공부하고 발전해야하는 직업**이라고 생각합니다. <br>
+현재에 안주하지 않고 꾸준히 스스로를 발전시키는 개발자가 되도록 항상 노력중입니다.
 
 ---
 
 ## 💼 Career  
 ### 현재 재직
-- **🍅토마토시스템 (2022.09 ~ 현재)**  
+- **🍅 토마토시스템 (2022.09 ~ 현재)**  
   - **역할**: 웹 프론트엔드 개발자  
   - **주요 업무**: 사내 UI솔루션 활용 개발 및 유지보수, 신규 기능 구현, 기술지원, 공통 컴포넌트 개발
-  - **성과**: 
 
 ---
 
 ## 🚀 Project Experience  
 ### 📌 국민건강보험공단 통합징수시스템 전환 (2025.07 ~ 진행 중)  
-- **기술 스택**: Java, eXBuilder6, LESS
-- **기여 내용**:  
+- **기술 스택**: Java, JS, eXBuilder6, LESS
+- **업무**: AS-IS 시스템 전환
 
 ### 📌 한전 EERS 시스템 개발 (2025.03 ~ 2025.06)  
-- **기술 스택**: eXBuilder6, LESS 
-- **기여 내용**:  
+- **기술 스택**: JS, eXBuilder6, LESS 
+- **업무**:  공통/업무 컴포넌트, 화면 퍼블리싱 및 공통 개발
 
 ### 📌 인사혁신처 차세대 프로젝트 (2024.08 ~ 2025.02)  
-- **기술 스택**: eXBuilder6, LESS
-- **기여 내용**: 
+- **기술 스택**: JS, eXBuilder6, LESS
+- **업무**: 공통/업무 컴포넌트, 화면 퍼블리싱 및 공통 개발
 
 ### 📌 흥국생명 선심사 도입 및 SFA 재구축 (2024.03 ~ 2024.07)  
-- **기술 스택**: eXBuilder6, LESS
-- **기여 내용**: 
+- **기술 스택**: JS, eXBuilder6, LESS
+- **업무**: 공통/업무 컴포넌트, 화면 퍼블리싱 및 공통 개발
 
 ### 📌 푸본현대생명 New GA 영업지원시스템 개발 (2023.07 ~ 2024.02)  
-- **기술 스택**: Java, Spring, eXBuilder6, LESS, SVN  
-- **기여 내용**:  
+- **기술 스택**: JS, Java, Spring, eXBuilder6, LESS, SVN  
+- **업무**: 보험 가입설계 프론트엔드 개발 담당 및 UI솔루션 공통 개발/퍼블리싱
 
 ---
 
 
 # 🛠 Skills  
-## Frontend  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right:10px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<p/>
+
+## Frontend 
 - **React** : 컴포넌트 기반 아키텍처 설계 및 최적화 경험  
 - **JavaScript** : 실무 프로젝트 다수 적용, 클린 코드 지향  
 - **HTML / CSS / LESS** : 반응형 UI 및 재사용 가능한 스타일 구조화  
 
 ## Backend  
-- **Java (Spring Framework)** : API 개발 및 서버사이드 로직 구현 경험 
+- **Java (Spring Framework)** : API 개발 및 서버사이드 로직 구현 기초 경험 
 
 ## DevOps & Tools  
 - **Git / GitHub / SVN** : 협업 및 형상 관리 경험  
