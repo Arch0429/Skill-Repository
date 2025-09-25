@@ -4,51 +4,51 @@ function App() {
   return (
     <>
       <main>
-          <div class="card">
-              <div class="card__header">강의 목록</div>
-              <div class="card__body">
-                  <div class="courses">
-                      <article class="course">
+          <div className="card">
+              <div className="card__header">강의 목록</div>
+              <div className="card__body">
+                  <div className="courses">
+                      <article className="course">
                           <img
-                              class="course__img"
-                              src="../public/img/htmlcss.png"
+                              className="course__img"
+                              src="/public/img/htmlcss.png"
                               alt=""
                           />
-                          <div class="course__body">
-                              <div class="course__title">
+                          <div className="course__body">
+                              <div className="course__title">
                                   입문자를 위한, HTML&CSS 웹 개발 입문
                               </div>
-                              <div class="course__description">
+                              <div className="course__description">
                                   웹 개발에 필요한 기본 지식을 배웁니다.
                               </div>
                           </div>
                       </article>
-                      <article class="course">
+                      <article className="course">
                           <img
-                              class="course__img"
+                              className="course__img"
                               src="../public/img/htmlcss.png"
                               alt=""
                           />
-                          <div class="course__body">
-                              <div class="course__title">
+                          <div className="course__body">
+                              <div className="course__title">
                                   입문자를 위한, HTML&CSS 웹 개발 입문
                               </div>
-                              <div class="course__description">
+                              <div className="course__description">
                                   웹 개발에 필요한 기본 지식을 배웁니다.
                               </div>
                           </div>
                       </article>
-                      <article class="course">
+                      <article className="course">
                           <img
-                              class="course__img"
+                              className="course__img"
                               src="../public/img/htmlcss.png"
                               alt=""
                           />
-                          <div class="course__body">
-                              <div class="course__title">
+                          <div className="course__body">
+                              <div className="course__title">
                                   입문자를 위한, HTML&CSS 웹 개발 입문
                               </div>
-                              <div class="course__description">
+                              <div className="course__description">
                                   웹 개발에 필요한 기본 지식을 배웁니다.
                               </div>
                           </div>
