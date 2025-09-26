@@ -1,18 +1,10 @@
-export default function CourseItem() {
+export default function CourseItem({title, description, thumbnail}) {
     return (
         <article className="course">
-            <img
-                className="course__img"
-                src="/public/img/htmlcss.png"
-                alt=""
-            />
+            <img className="course__img" src={thumbnail} alt="강의 이미지"/>
             <div className="course__body">
-                <div className="course__title">
-                    입문자를 위한, HTML&CSS 웹 개발 입문
-                </div>
-                <div className="course__description">
-                    웹 개발에 필요한 기본 지식을 배웁니다.
-                </div>
+                <div className="course__title">{title}</div>
+                <div className="course__description">{description}</div>
             </div>
         </article>
     );
