@@ -1,17 +1,13 @@
 import Card from "../Card";
 import CourseItem from "./CourseItem";
 
-export default function CourseListCard({items}) {
-    const [course1, course2, course3] = items;
-
+export default function CourseListCard({ title, items }) {
     return (
         <>
-            <Card title="강의 목록">
+            <Card title={title}>
                 {/* children props - start */}
                 <div className="courses">
-                    <CourseItem {...course1}/>
-                    <CourseItem {...course2}/>
-                    <CourseItem {...course3}/>
+                    {items.map(item => <CourseItem key={item.id} {...item} />)}
                 </div>
                 {/* children props - end */}
             </Card>
