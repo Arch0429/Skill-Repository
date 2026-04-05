@@ -54,9 +54,10 @@
 <p/>
 
 ## Frontend 
-- **React** : 컴포넌트 기반 아키텍처 설계 및 최적화 경험  
-- **JavaScript** : 실무 프로젝트 다수 적용, 클린 코드 지향  
-- **HTML / CSS / LESS** : 반응형 UI 및 재사용 가능한 스타일 구조화  
+- **React** : 기본 개념 학습 및 개인 프로젝트 준비중
+- **JavaScript** : 비동기 처리, 스코프, 클로저 등 핵심 개념 이해 및 실무 적용
+- **HTML / CSS / LESS** : 반응형 UI 및 재사용 가능한 스타일 구조화
+- **eXBuilder6** : Dataset 기반 UI 개발 및 공통 컴포넌트 설계
 
 ## Backend  
 - **Java (Spring Framework)** : API 개발 및 서버사이드 로직 구현 기초 경험 
