@@ -53,6 +53,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 <p/>
 
+<!--
+---
+# 🧠 Memory Tree (Knowledge Map)
+
+👉 지식을 단순히 암기하지 않고, **연결 구조로 이해하려고 노력합니다**
+제가 학습한 내용을 단순한 나열이 아니라, **구조적으로 연결된 지식 트리 형태로 정리**하고 있습니다.
+<p align="center">
+  <img src="./docs/obsidian/Memory Tree.png" alt="Memory Tree" width="800"/>
+</p>
+
+> 📌 GitHub에서는 이미지로 확인하고,
+> 실제 구조는 Obsidian Canvas를 통해 관리하고 있습니다.
+---
+-->
+
 ## Frontend 
 - **React** : 기본 개념 학습 및 개인 프로젝트 준비중
 - **JavaScript** : 비동기 처리, 스코프, 클로저 등 핵심 개념 이해 및 실무 적용
