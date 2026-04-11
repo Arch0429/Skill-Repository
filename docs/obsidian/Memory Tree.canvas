@@ -1,15 +1,22 @@
 {
 	"nodes":[
-		{"id":"d13fc66d4b46f9b8","x":-480,"y":-100,"width":160,"height":60,"type":"text","text":"Javascript"},
-		{"id":"9c46038960ff356d","x":-300,"y":-197,"width":218,"height":60,"type":"text","text":"var, let, const"},
-		{"id":"2886017302d6fb47","x":-39,"y":-100,"width":118,"height":60,"type":"text","text":"호이스팅"},
-		{"id":"1cf2916acb89b8b7","x":-39,"y":-197,"width":80,"height":60,"type":"text","text":"TDZ"},
-		{"id":"343b924b60147ccb","x":-39,"y":-290,"width":100,"height":60,"type":"text","text":"스코프"},
-		{"id":"20a3480a8c17ba9d","x":140,"y":-290,"width":100,"height":60,"type":"text","text":"클로저"},
-		{"id":"3add6c8ba77704f4","x":-300,"y":0,"width":103,"height":60,"type":"text","text":"Async"},
-		{"id":"ffd4970e53b1f790","x":61,"y":100,"width":195,"height":60,"type":"text","text":"Async / Await"},
-		{"id":"4f728b777993b6e0","x":-136,"y":0,"width":137,"height":60,"type":"text","text":"Callback"},
-		{"id":"5b67a93299c7434f","x":-130,"y":100,"width":126,"height":60,"type":"text","text":"Promise"}
+		{"id":"03284c561017ff1a","x":41,"y":201,"width":290,"height":420,"type":"group"},
+		{"id":"d13fc66d4b46f9b8","type":"text","text":"Javascript","x":-480,"y":-100,"width":160,"height":60},
+		{"id":"9c46038960ff356d","type":"text","text":"var, let, const","x":-300,"y":-197,"width":218,"height":60},
+		{"id":"2886017302d6fb47","type":"text","text":"호이스팅","x":-39,"y":-100,"width":118,"height":60},
+		{"id":"1cf2916acb89b8b7","type":"text","text":"TDZ","x":-39,"y":-197,"width":80,"height":60},
+		{"id":"343b924b60147ccb","type":"text","text":"스코프","x":-39,"y":-290,"width":100,"height":60},
+		{"id":"20a3480a8c17ba9d","type":"text","text":"클로저","x":140,"y":-290,"width":100,"height":60},
+		{"id":"3add6c8ba77704f4","type":"text","text":"Async","x":-300,"y":0,"width":103,"height":60},
+		{"id":"ffd4970e53b1f790","type":"text","text":"Async / Await","x":61,"y":100,"width":195,"height":60},
+		{"id":"4f728b777993b6e0","type":"text","text":"Callback","x":-136,"y":0,"width":137,"height":60},
+		{"id":"5b67a93299c7434f","type":"text","text":"Promise","x":-130,"y":100,"width":126,"height":60},
+		{"id":"98fc4e9c9376831b","x":-300,"y":220,"width":249,"height":61,"type":"text","text":"자바스크립트 실행 구조"},
+		{"id":"139569896c8c0cdf","x":61,"y":221,"width":250,"height":60,"type":"text","text":"Call Stack"},
+		{"id":"b08592dcb8dd0d88","x":61,"y":301,"width":250,"height":60,"type":"text","text":"Memory Heap"},
+		{"id":"e19421666dbd326c","x":61,"y":381,"width":250,"height":60,"type":"text","text":"Web APIs"},
+		{"id":"7bfa261aaae72eb8","x":61,"y":461,"width":250,"height":60,"type":"text","text":"Callback Queue"},
+		{"id":"5b4bc16bf7d7693c","x":61,"y":541,"width":250,"height":60,"type":"text","text":"Event Loop"}
 	],
 	"edges":[
 		{"id":"ec69b06f697980c3","fromNode":"d13fc66d4b46f9b8","fromSide":"top","toNode":"9c46038960ff356d","toSide":"left"},
@@ -20,6 +27,8 @@
 		{"id":"27a112556be9dffb","fromNode":"d13fc66d4b46f9b8","fromSide":"bottom","toNode":"3add6c8ba77704f4","toSide":"left"},
 		{"id":"d801b23c7dc0fa73","fromNode":"3add6c8ba77704f4","fromSide":"right","toNode":"4f728b777993b6e0","toSide":"left"},
 		{"id":"44907acf641cf6e2","fromNode":"3add6c8ba77704f4","fromSide":"bottom","toNode":"5b67a93299c7434f","toSide":"left"},
-		{"id":"d3e58df98311511d","fromNode":"5b67a93299c7434f","fromSide":"right","toNode":"ffd4970e53b1f790","toSide":"left"}
+		{"id":"d3e58df98311511d","fromNode":"5b67a93299c7434f","fromSide":"right","toNode":"ffd4970e53b1f790","toSide":"left"},
+		{"id":"4f9f682d8261ad1d","fromNode":"98fc4e9c9376831b","fromSide":"right","toNode":"03284c561017ff1a","toSide":"left"},
+		{"id":"cd4d1f5989635f1a","fromNode":"d13fc66d4b46f9b8","fromSide":"bottom","toNode":"98fc4e9c9376831b","toSide":"left"}
 	]
 }
