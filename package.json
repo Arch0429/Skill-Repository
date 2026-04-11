@@ -1,0 +1,27 @@
+{
+  "name": "skill-repository",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r <img src=\"./resource/myPhoto.jpg\" alt=\"My Photo\" width=\"250\" height=\"\"/>\r <p/>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arch0429/Skill-Repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Arch0429/Skill-Repository/issues"
+  },
+  "homepage": "https://github.com/Arch0429/Skill-Repository#readme",
+  "dependencies": {
+    "puppeteer": "^24.40.0"
+  }
+}
