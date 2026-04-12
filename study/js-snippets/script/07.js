@@ -16,13 +16,43 @@ function f1(arg, callback) {
 }
 
 f1("First", function(arg) {
-  console.log(arg);
+ // console.log(arg);
 
   f1("Second", function(arg) {
-    console.log(arg);
+   // console.log(arg);
 
     f1("Third", function(arg) {
-      console.log(arg);
+     // console.log(arg);
     });
   })
 });
+
+// 2. Promise
+function add10(num) {
+  return new Promise((resolve, reject) => {
+    // executor
+    setTimeout(function() {
+      if (typeof num === "number") {
+        resolve(num + 10);
+      } else {
+        reject(new Error(`${num} type is not a number`));
+      }
+    }, 1000);
+  })
+}
+
+add10(0)
+  .then((value) => {
+ //   console.log(value);
+    return add10(value);
+  })
+  .then((value) => {
+ //   console.log(value);
+    return add10(value);
+  })
+  .then((value) => {
+ //   console.log(value);
+  })
+  .catch((err) => {
+ //   console.log(err);
+  })
