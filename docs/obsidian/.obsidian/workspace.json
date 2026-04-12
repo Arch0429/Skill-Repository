@@ -4,56 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa567052f65b76c6",
+        "id": "c7b6e20a0dbc124e",
         "type": "tabs",
-        "dimension": 42.08211143695015,
         "children": [
           {
-            "id": "4fbfe71a6ee641ce",
+            "id": "94848db422f0dcda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Memory Tree.canvas",
-                "viewState": {
-                  "x": -113.19771328311194,
-                  "y": 267.6979088361365,
-                  "zoom": -0.7993963963087283
-                }
+                "file": "Excalidraw/memoryTree.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Memory Tree"
+              "icon": "excalidraw-icon",
+              "title": "memoryTree.excalidraw"
             }
           }
         ]
-      },
-      {
-        "id": "e0b6c946327c8c45",
-        "type": "tabs",
-        "dimension": 57.91788856304986,
-        "children": [
-          {
-            "id": "d92e82a5abc2f5bc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "3841f6adde6dcd7b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,18 +182,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9e14b546cdebc493",
+  "active": "94848db422f0dcda",
   "lastOpenFiles": [
     "Memory Tree.png",
     "Excalidraw/memoryTree.excalidraw.md",
-    "Excalidraw/memoryTree.excalidraw.md",
+    "Memory Tree.canvas",
     "resource/Javascript_Running.png",
     "resource",
     "Excalidraw/Drawing 2026-04-12 19.46.43.excalidraw.md",
     "Excalidraw",
     "Pasted Image 20260412194211_629.png",
     "memoryTree.excalidraw.restored.md",
-    "Memory Tree.canvas",
     "환영합니다!.md"
   ]
 }
