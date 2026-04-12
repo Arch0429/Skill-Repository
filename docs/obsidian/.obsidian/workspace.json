@@ -6,6 +6,7 @@
       {
         "id": "aa567052f65b76c6",
         "type": "tabs",
+        "dimension": 42.08211143695015,
         "children": [
           {
             "id": "4fbfe71a6ee641ce",
@@ -15,9 +16,9 @@
               "state": {
                 "file": "Memory Tree.canvas",
                 "viewState": {
-                  "x": 259.0680342581172,
+                  "x": -113.19771328311194,
                   "y": 267.6979088361365,
-                  "zoom": -0.5218128607964398
+                  "zoom": -0.7993963963087283
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,6 +26,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "e0b6c946327c8c45",
+        "type": "tabs",
+        "dimension": 57.91788856304986,
+        "children": [
+          {
+            "id": "d92e82a5abc2f5bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "3841f6adde6dcd7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +212,22 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fbfe71a6ee641ce",
+  "active": "9e14b546cdebc493",
   "lastOpenFiles": [
     "Memory Tree.png",
-    "환영합니다!.md",
-    "Memory Tree.canvas"
+    "Excalidraw/memoryTree.excalidraw.md",
+    "Excalidraw/memoryTree.excalidraw.md",
+    "resource/Javascript_Running.png",
+    "resource",
+    "Excalidraw/Drawing 2026-04-12 19.46.43.excalidraw.md",
+    "Excalidraw",
+    "Pasted Image 20260412194211_629.png",
+    "memoryTree.excalidraw.restored.md",
+    "Memory Tree.canvas",
+    "환영합니다!.md"
   ]
 }
