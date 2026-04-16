@@ -56,3 +56,15 @@ add10(0)
   .catch((err) => {
  //   console.log(err);
   })
+
+  // 3. async / await
+  async function asyncFunction() {
+    var result = await add10(0);
+    // console.log(result);
+    result = await add10(result);
+    // console.log(result);
+    result = await add10(result);
+    // console.log(result);
+  }
+
+  asyncFunction();
